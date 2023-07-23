@@ -12,7 +12,7 @@ after launching application you can use tools lik a Postman, python requests,cUR
 1. Clone the repository:
 
    ```bash
-   git clone REPOSITORY ADDRESS
+   git clone https://github.com/Mrhetsko/similarities_search.git
    ```
 2. Move to "sservice" directory:
    ```bash
@@ -59,7 +59,7 @@ after launching application you can use tools lik a Postman, python requests,cUR
 1. Clone the repository:
 
    ```bash
-   git clone REPOSITORY ADDRESS
+   git clone https://github.com/Mrhetsko/similarities_search.git
    ```
 2. Move to sservice directory:
    ```bash
