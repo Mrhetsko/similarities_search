@@ -9,7 +9,7 @@ urlpatterns = [
 
     path('api/add_item/', views.add_item),
     path('api/search_similarities/', views.search_items),
-    path('api/get_search_results', views.get_search_results),
+    path('api/get_search_results/', views.get_search_results),
 
     # docs
     path('api/schema/', SpectacularAPIView.as_view(), name="schema"),
